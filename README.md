@@ -2,7 +2,7 @@
 
 Marketing leader with 15+ years in commercial real estate and structured finance. These days I build the tools instead of only briefing them.
 
-Most recently I led marketing for a C-PACE lending platform that grew from $103M to $1B+ in financing volume.
+Most recently I led marketing for a C-PACE lending platform. C-PACE (Commercial Property Assessed Clean Energy) is a niche way to finance energy upgrades on commercial buildings, repaid through the property's tax assessment. The platform grew from **$103 million in 2022 to $1 billion in 2026** in total financing volume.
 
 ## What's here
 
