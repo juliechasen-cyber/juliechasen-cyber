@@ -1,9 +1,8 @@
 # Hi, I'm Julie 👋
 
-Marketing leader with 15+ years in commercial real estate and structured finance. These days I build the tools instead of only briefing them.
+Marketing leader with 15+ years in commercial real estate, CPACE, finance and other industries. These days I build the tools instead of only briefing them.
 
-Most recently I led marketing for a C-PACE lending platform. C-PACE (Commercial Property Assessed Clean Energy) is a niche way to finance energy upgrades on commercial buildings, repaid through the property's tax assessment. The platform grew from **$103 million in 2022 to $1 billion in 2026** in total financing volume.
-
+Most recently I led marketing for a C-PACE lending platform. C-PACE (Commercial Property Assessed Clean Energy) is a niche way to finance energy upgrades on commercial buildings.
 ## What's here
 
 **[cre-press-release-generator](https://github.com/juliechasen-cyber/cre-press-release-generator)** — a free tool for CRE brokers. Fill out a short form, get a wire-format press release draft in about a minute. Next.js + Claude, live at [cre-press-release-generator.vercel.app](https://cre-press-release-generator.vercel.app).
