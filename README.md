@@ -1,6 +1,6 @@
 # Hi, I'm Julie 👋
 
-Marketing leader with 15+ years in commercial real estate, CPACE, finance and other industries. These days I build the tools instead of only briefing them.
+Marketing leader working in commercial real estate, CPACE, finance and other industries. These days I build the tools instead of only briefing them.
 
 Most recently I led marketing for a C-PACE lending platform. C-PACE (Commercial Property Assessed Clean Energy) is a financing solution enabled by state legislation that provides commercial property owners and developers with access to long-term capital for eligible building improvements.
 ## What's here
