@@ -12,8 +12,6 @@ I have some repos private.
 
 **[starter-session-audit](https://github.com/juliechasen-cyber/starter-session-audit)** — a Claude Code skill that catches the corrections, preferences, and decisions a working session produces, then proposes where to save them. MIT licensed.
 
-**[juliechasen.com](https://github.com/juliechasen-cyber/juliechasen.com)** — source for my portfolio site. Hand-built HTML and CSS.
-
 ## Elsewhere
 
 Portfolio — [juliechasen.com](https://juliechasen.com)
